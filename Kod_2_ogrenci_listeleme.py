@@ -5,7 +5,7 @@ import pyodbc
 def fetch_data():
     try:
         # Veri tabanı bağlantı parametrelerini ayarla
-        server = 'LAPTOP-GV9TM8J0\\SQLEXPRESS'
+        server = '\\SQLEXPRESS'
         database = 'YBS'
 
         # Bağlantı dizesini oluştur
