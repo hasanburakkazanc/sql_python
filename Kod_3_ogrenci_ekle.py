@@ -3,7 +3,7 @@ from tkinter import ttk
 import pyodbc
 from tkinter import messagebox
 
-server = 'LAPTOP-GV9TM8J0\\SQLEXPRESS'
+server = '\\SQLEXPRESS'
 database = 'YBS'
 
 # Bağlantı dizesini oluştur
