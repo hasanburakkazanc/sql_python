@@ -3,7 +3,7 @@ import pyodbc
 #DESKTOP-ETBJ7UV\SQLEXPRESS
 
 # Veri tabanı bağlantı parametrelerini ayarla
-server = 'LAPTOP-GV9TM8J0\\SQLEXPRESS'
+server = '\\SQLEXPRESS'
 database = 'YBS'
 
 # Bağlantı dizesini oluştur
